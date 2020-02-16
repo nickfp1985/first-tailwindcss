@@ -1,0 +1,20 @@
+{
+  "name": "my-tailwind-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickfp1985/first-tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickfp1985/first-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/nickfp1985/first-tailwindcss#readme"
+}
